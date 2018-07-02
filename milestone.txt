@@ -1,0 +1,13 @@
+ECS 272: Project 2 - Milestone 1
+
+1) Dataset for this project
+
+The dataset I have chosen to implement for this project is Hillary Clinton's email network. The database contains four tables, one containing the aliases for all people, one for the emails that were sent amongst the collaborators, one for all the email receivers and one containing the names (or email addresses) of all the collaborators involved.
+
+2) Chosen NLP technique and how I plan to use it
+
+The NLP technique I have chosen is TextBlob. The reason I chose to use TextBlob is because I found out that it contained all the essentials of what I needed to parse the emails. One very important aspect of parsing that I needed was sentiment analysis. Since these are emails that are being sent between people, I thought it would be best to include the emotional values connected to each email by each person in order to fully understand how they behaved with different recipients.
+
+3) Views and interactions
+
+To begin with, I have already implemented a bubble chart that contains all the senders involved in the scandal. I checked with Professor Ma too, and he said that it was okay to use bubble charts but it wouldn't impress him. The reason I used a bubble chart was because this was the best way to represent all senders and their importance in the collaboration based on their interaction. The second chart that I have partly implemented is a draggable network chart that shows the people any sender contacts the most. The remaining charts are bar graphs and pie charts that will be used to display information such as emotional sentiment, most frequently used words, number of emails sent etc. On clicking any bubble i.e. sender in the bubble chart, a network of his or her connections will be displayed along with all the information regarding the mails that they have sent.

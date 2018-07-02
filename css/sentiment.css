@@ -1,0 +1,31 @@
+.ladder {
+    margin-right: 200px;
+    position: relative;
+    float: right;
+    max-width: 640px;
+    margin-top: 0%;
+}
+
+body {
+    margin: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    font-family: 'Share Tech Mono', monospace;
+    color: white;
+}
+
+a {
+    color: white
+}
+
+g.tick>line {
+    stroke: lightgrey;
+    stroke-dasharray: 2, 2;
+}
+
+.axis-label, .series-label {
+    fill: lightgrey;
+}

@@ -1,0 +1,501 @@
+sender,year,count
+Jake Sullivan,2009,186
+Jake Sullivan,2010,617
+Jake Sullivan,2011,13
+Jake Sullivan,2012,39
+Cheryl Mills,2009,599
+Cheryl Mills,2010,550
+Cheryl Mills,2011,6
+Cheryl Mills,2012,57
+Hillary Clinton,2009,1486
+Hillary Clinton,2010,935
+Hillary Clinton,2011,10
+Hillary Clinton,2012,87
+Anne-Marie Slaughter,2009,3
+Anne-Marie Slaughter,2010,119
+Anne-Marie Slaughter,2011,0
+Anne-Marie Slaughter,2012,0
+Harold Hongju Koh,2009,6
+Harold Hongju Koh,2010,20
+Harold Hongju Koh,2011,0
+Harold Hongju Koh,2012,0
+Wendy Sherman,2009,4
+Wendy Sherman,2010,0
+Wendy Sherman,2011,0
+Wendy Sherman,2012,8
+Sidney Blumenthal,2009,64
+Sidney Blumenthal,2010,155
+Sidney Blumenthal,2011,0
+Sidney Blumenthal,2012,7
+Burns Strider,2009,0
+Burns Strider,2010,4
+Burns Strider,2011,0
+Burns Strider,2012,0
+Huma Abedin,2009,724
+Huma Abedin,2010,777
+Huma Abedin,2011,7
+Huma Abedin,2012,1
+Robert Russo,2009,10
+Robert Russo,2010,20
+Robert Russo,2011,0
+Robert Russo,2012,0
+Capricia Marshall,2009,9
+Capricia Marshall,2010,8
+Capricia Marshall,2011,0
+Capricia Marshall,2012,4
+William Burns,2009,2
+William Burns,2010,4
+William Burns,2011,0
+William Burns,2012,1
+Monica Hanley,2009,4
+Monica Hanley,2010,16
+Monica Hanley,2011,0
+Monica Hanley,2012,11
+Daniel Schwerin,2009,2
+Daniel Schwerin,2010,7
+Daniel Schwerin,2011,0
+Daniel Schwerin,2012,4
+Philippe Reines,2009,81
+Philippe Reines,2010,74
+Philippe Reines,2011,0
+Philippe Reines,2012,6
+Melanne Verveer,2009,35
+Melanne Verveer,2010,41
+Melanne Verveer,2011,0
+Melanne Verveer,2012,0
+Claire Coleman,2009,3
+Claire Coleman,2010,2
+Claire Coleman,2011,0
+Claire Coleman,2012,1
+Lona Valmoro,2009,135
+Lona Valmoro,2010,102
+Lona Valmoro,2011,0
+Lona Valmoro,2012,2
+Thomas Nides,2009,0
+Thomas Nides,2010,0
+Thomas Nides,2011,0
+Thomas Nides,2012,0
+Victoria Nuland,2009,0
+Victoria Nuland,2010,0
+Victoria Nuland,2011,0
+Victoria Nuland,2012,2
+Maria Otero,2009,0
+Maria Otero,2010,7
+Maria Otero,2011,0
+Maria Otero,2012,0
+Judith McHale,2009,0
+Judith McHale,2010,121
+Judith McHale,2011,0
+Judith McHale,2012,0
+Alec,2009,0
+Alec,2010,0
+Alec,2011,0
+Alec,2012,0
+Lauren Jiloty,2009,125
+Lauren Jiloty,2010,206
+Lauren Jiloty,2011,0
+Lauren Jiloty,2012,0
+Neera Tanden,2009,3
+Neera Tanden,2010,1
+Neera Tanden,2011,0
+Neera Tanden,2012,0
+James Steinberg,2009,3
+James Steinberg,2010,2
+James Steinberg,2011,0
+James Steinberg,2012,0
+Cherie Blair,2009,11
+Cherie Blair,2010,4
+Cherie Blair,2011,0
+Cherie Blair,2012,0
+Thomas Shannon,2009,2
+Thomas Shannon,2010,0
+Thomas Shannon,2011,0
+Thomas Shannon,2012,0
+Jackie Newmyer,2009,8
+Jackie Newmyer,2010,0
+Jackie Newmyer,2011,0
+Jackie Newmyer,2012,0
+Barbara Mikulski,2009,5
+Barbara Mikulski,2010,3
+Barbara Mikulski,2011,0
+Barbara Mikulski,2012,0
+Patrick Kennedy,2009,0
+Patrick Kennedy,2010,0
+Patrick Kennedy,2011,0
+Patrick Kennedy,2012,0
+Robert Danford,2009,0
+Robert Danford,2010,0
+Robert Danford,2011,0
+Robert Danford,2012,0
+Lissa Muscatine,2009,28
+Lissa Muscatine,2010,61
+Lissa Muscatine,2011,0
+Lissa Muscatine,2012,0
+Long Term Strategy Group,2009,0
+Long Term Strategy Group,2010,0
+Long Term Strategy Group,2011,0
+Long Term Strategy Group,2012,0
+Strobe Talbott,2009,18
+Strobe Talbott,2010,11
+Strobe Talbott,2011,0
+Strobe Talbott,2012,0
+David Johnson,2009,0
+David Johnson,2010,0
+David Johnson,2011,0
+David Johnson,2012,0
+Lee Brown,2009,0
+Lee Brown,2010,0
+Lee Brown,2011,0
+Lee Brown,2012,0
+Lee Feinstein,2009,0
+Lee Feinstein,2010,0
+Lee Feinstein,2011,0
+Lee Feinstein,2012,0
+"Samuel (""Sandy"") Berger",2009,7
+"Samuel (""Sandy"") Berger",2010,0
+"Samuel (""Sandy"") Berger",2011,0
+"Samuel (""Sandy"") Berger",2012,0
+Jeffrey Farrow,2009,8
+Jeffrey Farrow,2010,3
+Jeffrey Farrow,2011,0
+Jeffrey Farrow,2012,0
+Kris Balderston,2009,5
+Kris Balderston,2010,20
+Kris Balderston,2011,0
+Kris Balderston,2012,0
+Richard Verma,2009,22
+Richard Verma,2010,122
+Richard Verma,2011,0
+Richard Verma,2012,0
+postmaster@state.gov,2009,1
+postmaster@state.gov,2010,4
+postmaster@state.gov,2011,0
+postmaster@state.gov,2012,0
+Colin Powell,2009,0
+Colin Powell,2010,0
+Colin Powell,2011,0
+Colin Powell,2012,0
+Kurt Campbell,2009,7
+Kurt Campbell,2010,13
+Kurt Campbell,2011,0
+Kurt Campbell,2012,0
+David Axelrod,2009,1
+David Axelrod,2010,0
+David Axelrod,2011,0
+David Axelrod,2012,0
+John Podesta,2009,1
+John Podesta,2010,0
+John Podesta,2011,0
+John Podesta,2012,0
+David Garten,2009,0
+David Garten,2010,0
+David Garten,2011,0
+David Garten,2012,0
+Caroline Adler,2009,0
+Caroline Adler,2010,0
+Caroline Adler,2011,0
+Caroline Adler,2012,0
+Andrew Shapiro,2009,4
+Andrew Shapiro,2010,2
+Andrew Shapiro,2011,0
+Andrew Shapiro,2012,0
+Derek Chollet,2009,0
+Derek Chollet,2010,0
+Derek Chollet,2011,0
+Derek Chollet,2012,0
+Thomas Donilon,2009,0
+Thomas Donilon,2010,0
+Thomas Donilon,2011,0
+Thomas Donilon,2012,0
+Jacob Lew,2009,8
+Jacob Lew,2010,13
+Jacob Lew,2011,0
+Jacob Lew,2012,0
+G. Lou de Bac,2009,0
+G. Lou de Bac,2010,0
+G. Lou de Bac,2011,0
+G. Lou de Bac,2012,0
+Laurie Rubiner,2009,0
+Laurie Rubiner,2010,0
+Laurie Rubiner,2011,0
+Laurie Rubiner,2012,0
+Danielle Brian,2009,0
+Danielle Brian,2010,0
+Danielle Brian,2011,0
+Danielle Brian,2012,0
+Werner Ilic,2009,0
+Werner Ilic,2010,0
+Werner Ilic,2011,0
+Werner Ilic,2012,0
+Phillip Crowley,2009,1
+Phillip Crowley,2010,1
+Phillip Crowley,2011,0
+Phillip Crowley,2012,0
+Jeffrey Feltman,2009,9
+Jeffrey Feltman,2010,12
+Jeffrey Feltman,2011,0
+Jeffrey Feltman,2012,0
+PVervee,2009,1
+PVervee,2010,0
+PVervee,2011,0
+PVervee,2012,0
+Philip Crowley,2009,5
+Philip Crowley,2010,7
+Philip Crowley,2011,0
+Philip Crowley,2012,0
+George Mitchell,2009,0
+George Mitchell,2010,4
+George Mitchell,2011,0
+George Mitchell,2012,0
+Michael Fuchs,2009,1
+Michael Fuchs,2010,12
+Michael Fuchs,2011,0
+Michael Fuchs,2012,0
+Prime Minister,2009,0
+Prime Minister,2010,0
+Prime Minister,2011,0
+Prime Minister,2012,0
+STATE,2009,0
+STATE,2010,0
+STATE,2011,0
+STATE,2012,0
+Paul Jones,2009,1
+Paul Jones,2010,0
+Paul Jones,2011,0
+Paul Jones,2012,0
+Philip Gordon,2009,1
+Philip Gordon,2010,3
+Philip Gordon,2011,0
+Philip Gordon,2012,0
+Miguel Rodriguez,2009,2
+Miguel Rodriguez,2010,7
+Miguel Rodriguez,2011,0
+Miguel Rodriguez,2012,0
+Christopher Hill,2009,0
+Christopher Hill,2010,0
+Christopher Hill,2011,0
+Christopher Hill,2012,0
+M. Albright,2009,0
+M. Albright,2010,0
+M. Albright,2011,0
+M. Albright,2012,0
+Max Baucus,2009,0
+Max Baucus,2010,0
+Max Baucus,2011,0
+Max Baucus,2012,0
+Linda Dewan,2009,0
+Linda Dewan,2010,0
+Linda Dewan,2011,0
+Linda Dewan,2012,0
+Ellen Tauscher,2009,0
+Ellen Tauscher,2010,8
+Ellen Tauscher,2011,0
+Ellen Tauscher,2012,0
+Gina Glantz,2009,0
+Gina Glantz,2010,0
+Gina Glantz,2011,0
+Gina Glantz,2012,0
+Voda Ebeling,2009,0
+Voda Ebeling,2010,5
+Voda Ebeling,2011,0
+Voda Ebeling,2012,0
+Arturo Valenzuela,2009,0
+Arturo Valenzuela,2010,6
+Arturo Valenzuela,2011,0
+Arturo Valenzuela,2012,0
+Nora Tov,2009,0
+Nora Tov,2010,0
+Nora Tov,2011,0
+Nora Tov,2012,0
+Daniel Baer,2009,6
+Daniel Baer,2010,0
+Daniel Baer,2011,0
+Daniel Baer,2012,0
+Reta Jo Lewis,2009,0
+Reta Jo Lewis,2010,0
+Reta Jo Lewis,2011,0
+Reta Jo Lewis,2012,0
+Johnnie Carson,2009,0
+Johnnie Carson,2010,0
+Johnnie Carson,2011,0
+Johnnie Carson,2012,0
+Nora Toiv,2009,0
+Nora Toiv,2010,4
+Nora Toiv,2011,0
+Nora Toiv,2012,0
+KPK,2009,1
+KPK,2010,0
+KPK,2011,0
+KPK,2012,0
+Todd Stern,2009,1
+Todd Stern,2010,2
+Todd Stern,2011,0
+Todd Stern,2012,0
+Rajiv Shah,2009,0
+Rajiv Shah,2010,0
+Rajiv Shah,2011,0
+Rajiv Shah,2012,0
+Robert Hormats,2009,0
+Robert Hormats,2010,0
+Robert Hormats,2011,0
+Robert Hormats,2012,0
+Michael Posner,2009,0
+Michael Posner,2010,0
+Michael Posner,2011,0
+Michael Posner,2012,0
+Haiti,2009,0
+Haiti,2010,0
+Haiti,2011,0
+Haiti,2012,0
+Betsy Ebeling,2009,1
+Betsy Ebeling,2010,26
+Betsy Ebeling,2011,0
+Betsy Ebeling,2012,0
+Craig Kelly,2009,0
+Craig Kelly,2010,1
+Craig Kelly,2011,0
+Craig Kelly,2012,0
+Recos,2009,0
+Recos,2010,0
+Recos,2011,0
+Recos,2012,0
+Christopher Butzgy,2009,0
+Christopher Butzgy,2010,0
+Christopher Butzgy,2011,0
+Christopher Butzgy,2012,0
+Case Button,2009,0
+Case Button,2010,0
+Case Button,2011,0
+Case Button,2012,0
+Mike,2009,0
+Mike,2010,0
+Mike,2011,0
+Mike,2012,0
+Esther Brimmer,2009,0
+Esther Brimmer,2010,0
+Esther Brimmer,2011,0
+Esther Brimmer,2012,0
+Megan Rooney,2009,0
+Megan Rooney,2010,10
+Megan Rooney,2011,0
+Megan Rooney,2012,0
+Courtney Beale,2009,0
+Courtney Beale,2010,4
+Courtney Beale,2011,0
+Courtney Beale,2012,0
+Tomicah Tillemann,2009,0
+Tomicah Tillemann,2010,8
+Tomicah Tillemann,2011,0
+Tomicah Tillemann,2012,0
+James McGovern,2009,0
+James McGovern,2010,0
+James McGovern,2011,0
+James McGovern,2012,0
+Robert Blake,2009,0
+Robert Blake,2010,0
+Robert Blake,2011,0
+Robert Blake,2012,0
+Maura Pally,2009,0
+Maura Pally,2010,0
+Maura Pally,2011,0
+Maura Pally,2012,0
+Luis CdeBaca,2009,0
+Luis CdeBaca,2010,0
+Luis CdeBaca,2011,0
+Luis CdeBaca,2012,0
+Susan Rice,2009,0
+Susan Rice,2010,2
+Susan Rice,2011,0
+Susan Rice,2012,0
+Reines Philippe,2009,0
+Reines Philippe,2010,0
+Reines Philippe,2011,0
+Reines Philippe,2012,0
+Tsakina Elbegdori,2009,0
+Tsakina Elbegdori,2010,0
+Tsakina Elbegdori,2011,0
+Tsakina Elbegdori,2012,0
+New York Times,2009,0
+New York Times,2010,0
+New York Times,2011,0
+New York Times,2012,0
+rooneym@state.gov,2009,0
+rooneym@state.gov,2010,0
+rooneym@state.gov,2011,0
+rooneym@state.gov,2012,0
+Zachary Iscol,2009,0
+Zachary Iscol,2010,0
+Zachary Iscol,2011,0
+Zachary Iscol,2012,0
+Samuel Berger,2009,0
+Samuel Berger,2010,1
+Samuel Berger,2011,0
+Samuel Berger,2012,0
+Jonathan Prince,2009,0
+Jonathan Prince,2010,0
+Jonathan Prince,2011,0
+Jonathan Prince,2012,0
+Lois Quam,2009,0
+Lois Quam,2010,0
+Lois Quam,2011,0
+Lois Quam,2012,0
+Joanne Laszczych,2009,0
+Joanne Laszczych,2010,3
+Joanne Laszczych,2011,0
+Joanne Laszczych,2012,0
+Eric Woodard,2009,0
+Eric Woodard,2010,0
+Eric Woodard,2011,0
+Eric Woodard,2012,0
+Daniel Inonye,2009,0
+Daniel Inonye,2010,0
+Daniel Inonye,2011,0
+Daniel Inonye,2012,0
+Joshua Daniel,2009,0
+Joshua Daniel,2010,5
+Joshua Daniel,2011,0
+Joshua Daniel,2012,0
+American Beverage Association,2009,0
+American Beverage Association,2010,0
+American Beverage Association,2011,0
+American Beverage Association,2012,0
+aclb,2009,0
+aclb,2010,2
+aclb,2011,0
+aclb,2012,0
+Maria Calivis,2009,0
+Maria Calivis,2010,0
+Maria Calivis,2011,0
+Maria Calivis,2012,0
+Anthony Lake,2009,0
+Anthony Lake,2010,0
+Anthony Lake,2011,0
+Anthony Lake,2012,0
+Madeleine Albright,2009,0
+Madeleine Albright,2010,0
+Madeleine Albright,2011,0
+Madeleine Albright,2012,0
+James Smith,2009,0
+James Smith,2010,0
+James Smith,2011,0
+James Smith,2012,0
+Piper Campbell,2009,0
+Piper Campbell,2010,0
+Piper Campbell,2011,0
+Piper Campbell,2012,0
+Dana Hyde,2009,0
+Dana Hyde,2010,0
+Dana Hyde,2011,0
+Dana Hyde,2012,0
+alcb,2009,0
+alcb,2010,2
+alcb,2011,0
+alcb,2012,0
+Chelsea Clinton,2009,0
+Chelsea Clinton,2010,0
+Chelsea Clinton,2011,0
+Chelsea Clinton,2012,0
+David Miliband,2009,0
+David Miliband,2010,0
+David Miliband,2011,0
+David Miliband,2012,0
